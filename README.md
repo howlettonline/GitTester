@@ -1,2 +1,2 @@
-This is the git tester project
-It showcases cats!
+# This is the git tester project
+It showcases *cats*!
